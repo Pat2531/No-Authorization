@@ -1,0 +1,32 @@
+body {
+    background-image: url("pylon2022.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: initial;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: multiply;
+    overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+    color: antiquewhite;
+}
+
+h2 {
+    margin-top: 25%;
+    text-align: center;
+    color: antiquewhite;
+}
+
+a {
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 10px;
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    resize: none;
+    text-decoration: none;
+    color: black;
+    margin-left: 43%
+}
